@@ -1,3 +1,5 @@
 historia con sus respectivas modificaciones
 
-independientemente de las dependencias
+independientemente de las dependencias 
+
+con total dependencia
