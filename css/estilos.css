@@ -1,8 +1,12 @@
 body
 {
     text-align: center;
-    color:chocolate;
+    color:orangered;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    background-color: gray;
     padding: 80px;
+}
+
+#parrafoRojo {
+    color: red;
 }
